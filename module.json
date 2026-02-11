@@ -1,0 +1,33 @@
+{
+  "id": "sunbear-customs",
+  "title": "Sunbear customs",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<p>ayo peanits</p>",
+  "authors": [
+    {
+      "name": "Sunbear",
+      "discord": "sunbearwizard",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "pack-1",
+      "label": "Custom Subclasses",
+      "path": "packs/pack-1",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
