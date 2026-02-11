@@ -2,6 +2,8 @@
   "id": "sunbear-customs",
   "title": "Sunbear customs",
   "version": "1.0.0",
+  "manifest": "https://raw.githubusercontent.com/sunbearwizard/sunbear-customs/main/module.json",
+  "download": "https://github.com/sunbearwizard/sunbear-customs/releases/download/v1.0.0/bardic-expansion.zip",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
